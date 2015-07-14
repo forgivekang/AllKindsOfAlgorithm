@@ -86,5 +86,6 @@ int main()
 		cout << arrf[i] << ' ';	
 	cout<<endl;
 
+	system("pause");
 	return 0;
 }
